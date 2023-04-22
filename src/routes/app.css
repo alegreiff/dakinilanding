@@ -11,7 +11,7 @@ h1 {
     font-weight: 700;
 
     font-family: 'Poppins', sans-serif;
-    font-size: 5.5rem;
+    font-size: clamp(3rem, 3.5vw, 8rem);
     color: rgb(61, 128, 244);
 }
 
@@ -19,6 +19,6 @@ h2 {
     font-weight: 700;
 
     font-family: 'Poppins', sans-serif;
-    font-size: 3.5rem;
+    font-size: clamp(2rem, 2.5vw, 6rem);
     color: rgb(61, 128, 244);
 }
