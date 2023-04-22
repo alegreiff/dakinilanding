@@ -1,0 +1,24 @@
+@import url(https://fonts.bunny.net/css?family=poppins:400,500,700,900);
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+h1 {
+    font-weight: 700;
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 5.5rem;
+    color: rgb(61, 128, 244);
+}
+
+h2 {
+    font-weight: 700;
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 3.5rem;
+    color: rgb(61, 128, 244);
+}
